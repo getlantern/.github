@@ -1,3 +1,5 @@
+WARNING - This template is public, do not include any sensitive information
+
 - [ ] Do the tests pass? Consistently?
 - [ ] Did this change improve test coverage?
 - [ ] Has it been reviewed/approved by relevant teammates?
