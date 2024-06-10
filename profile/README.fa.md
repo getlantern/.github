@@ -1,13 +1,13 @@
 # لنترن
-[![en](https://github.com/getlantern/.github/resources/English.svg)](README.md)
-[![zh](https://github.com/getlantern/.github/resources/Chinese.svg)](README.zh.md)
-[![ru](https://github.com/getlantern/.github/resources/Russian.svg)](README.ru.md)
-[![ar](https://github.com/getlantern/.github/resources/Arabic.svg)](README.ar.md)
-[![fa](https://github.com/getlantern/.github/resources/Farsi.svg)](README.fa.md)
+[![en](https://github.com/getlantern/.github/blob/main/resources/English.svg)](https://github.com/getlantern/.github/blob/main/profile/README.md)
+[![zh](https://github.com/getlantern/.github/blob/main/resources/Chinese.svg)](https://github.com/getlantern/.github/blob/main/profile/README.zh.md)
+[![ru](https://github.com/getlantern/.github/blob/main/resources/Russian.svg)](https://github.com/getlantern/.github/blob/main/profile/README.ru.md)
+[![ar](https://github.com/getlantern/.github/blob/main/resources/Arabic.svg)](https://github.com/getlantern/.github/blob/main/profile/README.ar.md)
+[![fa](https://github.com/getlantern/.github/blob/main/resources/Farsi.svg)](https://github.com/getlantern/.github/blob/main/profile/README.fa.md)
 ---
 ابزار دور زدن سانسور برای دانلود رایگان در هر سیستم عاملی در دسترس است
 
-![cover page](https://github.com/getlantern/.github/resources/cover_page.png)
+![cover page](https://github.com/getlantern/.github/blob/main/resources/cover_page.png)
 
 ## دانلودها
 <table>
