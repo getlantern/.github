@@ -1,13 +1,13 @@
 # Lantern
-[![en](../resources/English.svg)](README.md)
-[![zh](../resources/Chinese.svg)](README.zh.md)
-[![ru](../resources/Russian.svg)](README.ru.md)
-[![ar](../resources/Arabic.svg)](README.ar.md)
-[![fa](../resources/Farsi.svg)](README.fa.md)
+[![en](https://github.com/getlantern/.github/resources/English.svg)](README.md)
+[![zh](https://github.com/getlantern/.github/resources/Chinese.svg)](README.zh.md)
+[![ru](https://github.com/getlantern/.github/resources/Russian.svg)](README.ru.md)
+[![ar](https://github.com/getlantern/.github/resources/Arabic.svg)](README.ar.md)
+[![fa](https://github.com/getlantern/.github/resources/Farsi.svg)](README.fa.md)
 ---
 Инструмент для обхода цензуры доступен для бесплатного скачивания на любой операционной системе
 
-![cover page](../resources/cover_page.png)
+![cover page](https://github.com/getlantern/.github/resources/cover_page.png)
 
 ## Скачать
 <table>
