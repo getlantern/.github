@@ -1,5 +1,5 @@
 # .github
-Displays a public GitHub organization profile page based on [./profile/README.md](https://github.com/getlantern/.github/profile/README.md).
+Displays a public GitHub organization profile page based on [./profile/README.md](https://github.com/getlantern/.github/profile/README.md). Private profile for members only is found at https://github.com/getlantern/.github-private.
 
 ## structure
 ```
