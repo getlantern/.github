@@ -7,7 +7,7 @@
 ---
 可以在任何操作系统上获得免费下载审查规避工具
 
-![cover page](resources/cover_page.png)
+![cover page](../resources/cover_page.png)
 
 ## 下载
 <table>

@@ -7,7 +7,7 @@
 ---
 ابزار دور زدن سانسور برای دانلود رایگان در هر سیستم عاملی در دسترس است
 
-![cover page](resources/cover_page.png)
+![cover page](../resources/cover_page.png)
 
 ## دانلودها
 <table>

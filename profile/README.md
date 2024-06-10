@@ -7,7 +7,7 @@
 ---
 Censorship circumvention tool available for free download on any operating system
 
-![cover page](resources/cover_page.png)
+![cover page](../resources/cover_page.png)
 
 ## Downloads
 <table>

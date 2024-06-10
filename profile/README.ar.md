@@ -7,7 +7,7 @@
 ---
 أداة التحايل على الرقابة متاحة للتنزيل على أي نظام تشغيل
 
-![cover page](resources/cover_page.png)
+![cover page](../resources/cover_page.png)
 
 ## تنزيلات
 <table>

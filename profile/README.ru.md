@@ -7,7 +7,7 @@
 ---
 Инструмент для обхода цензуры доступен для бесплатного скачивания на любой операционной системе
 
-![cover page](resources/cover_page.png)
+![cover page](../resources/cover_page.png)
 
 ## Скачать
 <table>
