@@ -1,9 +1,9 @@
 # أداةلانترن
-[![en](resources/English.svg)](README.md)
-[![zh](resources/Chinese.svg)](README.zh.md)
-[![ru](resources/Russian.svg)](README.ru.md)
-[![ar](resources/Arabic.svg)](README.ar.md)
-[![fa](resources/Farsi.svg)](README.fa.md)
+[![en](../resources/English.svg)](README.md)
+[![zh](../resources/Chinese.svg)](README.zh.md)
+[![ru](../resources/Russian.svg)](README.ru.md)
+[![ar](../resources/Arabic.svg)](README.ar.md)
+[![fa](../resources/Farsi.svg)](README.fa.md)
 ---
 أداة التحايل على الرقابة متاحة للتنزيل على أي نظام تشغيل
 

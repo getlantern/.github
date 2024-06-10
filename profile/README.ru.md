@@ -1,9 +1,9 @@
 # Lantern
-[![en](resources/English.svg)](README.md)
-[![zh](resources/Chinese.svg)](README.zh.md)
-[![ru](resources/Russian.svg)](README.ru.md)
-[![ar](resources/Arabic.svg)](README.ar.md)
-[![fa](resources/Farsi.svg)](README.fa.md)
+[![en](../resources/English.svg)](README.md)
+[![zh](../resources/Chinese.svg)](README.zh.md)
+[![ru](../resources/Russian.svg)](README.ru.md)
+[![ar](../resources/Arabic.svg)](README.ar.md)
+[![fa](../resources/Farsi.svg)](README.fa.md)
 ---
 Инструмент для обхода цензуры доступен для бесплатного скачивания на любой операционной системе
 
