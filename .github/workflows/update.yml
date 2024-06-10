@@ -1,0 +1,39 @@
+name: Update pages
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'updater/**'
+    branches: [ main, jay/migrate-dl-page ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          submodules: false
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: 'updater/go.mod'
+          cache-dependency-path: 'updater/go.sum'
+
+      - name: Build Go
+        run: go build
+        working-directory: updater
+
+      - name: Update files
+        run: ./updater
+        working-directory: updater
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated update"
