@@ -5,10 +5,10 @@ on:
   push:
     paths:
       - 'updater/**'
-    branches: [ main, jay/migrate-dl-page ]
+    # branches: [ main ]
 
 jobs:
-  build:
+  update-pages:
     runs-on: ubuntu-latest
     permissions:
       contents: write
