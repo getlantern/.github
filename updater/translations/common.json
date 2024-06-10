@@ -9,6 +9,7 @@
     "fr": "française",
     "website_link": "https://lantern.io",
     "faq_link": "https://lantern.io/faq",
+    "repo_base_link": "https://github.com/getlantern/.github/blob/main",
     "win10_link_gl": "https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe",
     "win10_link_gh": "https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer.exe",
     "win10_link_s3": "https://s3.amazonaws.com/lantern/lantern-installer.exe",
