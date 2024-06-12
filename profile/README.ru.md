@@ -104,10 +104,11 @@
 ## Release Notes
 ### 7.8.8
 - fixed bug with Spanish translations not displaying
+- updated circumvention library
 ### 7.8.7
 - update UI elements
 - fixed bug with translations in UI
-- update circumvention library
+- updated circumvention library
 ### 7.8.6
 - updated circumvention library
 - update translations support
