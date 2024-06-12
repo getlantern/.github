@@ -102,6 +102,8 @@
 - توییتر | [اَلْعَرَبِيَّةُ](https://twitter.com/getlantern_UAE) | [беларуская](https://twitter.com/LanternBelarus) | [English](https://twitter.com/getlantern) | [فارسی](https://twitter.com/getlantern_fa) | [française](https://twitter.com/getlantern_gu) | [русский](https://twitter.com/Lantern_Russia) | [українська](https://twitter.com/LanternUA) | [中文](https://twitter.com/getlantern_CN)
 
 ## Release Notes
+### 7.8.8
+- fixed bug with Spanish translations not displaying
 ### 7.8.7
 - update UI elements
 - fixed bug with translations in UI
