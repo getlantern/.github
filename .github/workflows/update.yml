@@ -33,7 +33,7 @@ jobs:
         run: go build
         working-directory: updater
 
-      - name: Update files
+      - name: Run the updater binary to remake files
         run: ./updater
         working-directory: updater
 
@@ -41,3 +41,12 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated update"
+
+      - name: Trigger legacy repo to update READMEs to keep in sync
+        run: |
+          export GH_GRANTS_TOKEN=${{ secrets.GH_GRANTS_TOKEN }}
+          curl -H "Accept: application/vnd.github.everest-preview+json" \
+          -H "Authorization: token $GH_GRANTS_TOKEN" \
+          --request POST --data '{"event_type": "TRIGGER_UPDATE"}' \
+          https://api.github.com/repos/getlantern/lantern/dispatches
+  
