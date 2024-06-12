@@ -9,6 +9,9 @@
 # updated automatically after changes to this file are
 # committed to the "main" branch.
 
+- 7.8.8:
+  - fixed bug with Spanish translations not displaying
+
 - 7.8.7:
   - update UI elements
   - fixed bug with translations in UI
