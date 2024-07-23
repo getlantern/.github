@@ -43,6 +43,7 @@ jobs:
           commit_message: "Automated update"
 
       - name: Trigger legacy repo to update READMEs to keep in sync
+        if: github.ref == 'refs/heads/main'
         run: |
           export GH_GRANTS_TOKEN=${{ secrets.GH_GRANTS_TOKEN }}
           curl -H "Accept: application/vnd.github.everest-preview+json" \
