@@ -4,6 +4,7 @@
 [![ru](https://github.com/getlantern/.github/blob/main/resources/Russian.svg)](https://github.com/getlantern/.github/blob/main/profile/README.ru.md)
 [![ar](https://github.com/getlantern/.github/blob/main/resources/Arabic.svg)](https://github.com/getlantern/.github/blob/main/profile/README.ar.md)
 [![fa](https://github.com/getlantern/.github/blob/main/resources/Farsi.svg)](https://github.com/getlantern/.github/blob/main/profile/README.fa.md)
+[![my](https://github.com/getlantern/.github/blob/main/resources/Burmese.svg)](https://github.com/getlantern/.github/blob/main/profile/README.my.md)
 ---
 အင်တာနက်တွင် ပိတ်ထားသည်များကို ကျော်ကြည့်သည့် တူးလ်ကို မည်သည့် လည်ပတ်စနစ်ပေါ်တွင်မဆို အခမဲ့ ဒေါင်းလုဒ်ယူ၍ ရနိုင်ပါပြီ
 
