@@ -10,7 +10,8 @@ Update source files with newest information.
 
 ## templates
 Templates in the [templates](./templates) directory can be altered, and will affect all languages.
-- [`README.md.tmpl`](./templates/README.md.tmpl)
+- [`README.md.tmpl`](./templates/README.md.tmpl) - main downloads page for our GitHub profile
+- [`footer.html.tmpl`](./templates/footer.html.tmpl) - social media links for helpdesk footer
 
 ## translations
 For every translation file in the [translations](./translations) directory, a new file will be made.
