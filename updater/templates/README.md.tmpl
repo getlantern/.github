@@ -102,6 +102,8 @@
 ## {{ $tx.links }}
 - [{{ $tx.website }}]({{ $cm.website_link }})
 - [{{ $tx.faq }}]({{ $cm.faq_link }})
+- [{{ $cm.wiki }}]({{ $cm.wiki_link }})
+
 {{- range $siteName, $site := $si }}
 - {{ index $tx $siteName }}
     {{- range $lang, $url := $site }} | [{{- if eq $lang "bot" -}}
