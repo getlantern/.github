@@ -7,6 +7,8 @@
     "be": "беларуская",
     "uk": "українська",
     "fr": "française",
+    "wiki": "wiki",
+    "wiki_link": "https://github.com/getlantern/guide/wiki",
     "website_link": "https://lantern.io",
     "faq_link": "https://lantern.io/faq",
     "repo_base_link": "https://github.com/getlantern/.github/blob/main",
