@@ -10,6 +10,7 @@
     "wiki": "wiki",
     "wiki_link": "https://github.com/getlantern/guide/wiki",
     "website_link": "https://lantern.io",
+    "website_link_alt": "https://www.mror.network/",
     "faq_link": "https://lantern.io/faq",
     "repo_base_link": "https://github.com/getlantern/.github/blob/main",
     "win10_link_gl": "https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe",
