@@ -66,17 +66,6 @@
         <td></td>
     </tr>
     <tr>
-        <th>Linux (32-بت)</th>
-        <td>
-            <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-32-bit.deb">Ubuntu 14.04&#43; (32-بت)</a> <br>
-            <a href="https://s3.amazonaws.com/lantern/lantern-installer-32-bit.deb">Ubuntu 14.04&#43; (32-بت)</a>
-        </td>
-        <td></td>
-        <td>
-            <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-preview-32-bit.deb">Ubuntu 14.04&#43; (32-بت)</a>
-        </td>
-    </tr>
-    <tr>
         <th>Linux (64-بت)</th>
         <td>
             <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-64-bit.deb">Ubuntu 14.04&#43; (64-بت)</a> <br>
