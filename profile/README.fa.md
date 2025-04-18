@@ -93,28 +93,14 @@
 - توییتر | [اَلْعَرَبِيَّةُ](https://twitter.com/getlantern_UAE) | [беларуская](https://twitter.com/LanternBelarus) | [English](https://twitter.com/getlantern) | [فارسی](https://twitter.com/getlantern_fa) | [française](https://twitter.com/getlantern_gu) | [русский](https://twitter.com/Lantern_Russia) | [українська](https://twitter.com/LanternUA) | [中文](https://twitter.com/getlantern_CN)
 
 ## Release Notes
-### 7.9.9
-- Localization bug fixes
-- Updated circumvention protocols and improved proxy selection
-- Dektop system tray UI/UX updates
-- Bug fixes for app crashes
-### 7.9.8
-- iOS username and password support
-- Desktop username and password support
+### 8.1.14
+- Updated translations
+- Improvements to circumvention architecture
+### 8.1.13
+- Fix issues linking device via email on desktop (macOS)
 - Bug fixes
-- Reduced file size on Android
-### 7.9.7
-- Updated circumvention protocols
-- Spanish language update for Cuban users
-- Bug fixes for desktop device authorization
-### 7.9.6
-- Windows, macOS, and Linux UI/UX updates
-- Updated proxy selection protocols
+- Performance improvements
+### 8.1.12
+- Fix issues linking device via email on desktop
 - Bug fixes
-### 7.9.5
-- Translation and localization updates
-- Android crashing bug fixes
-### 7.9.4
-- Updated circumvention protocols
-- Desktop bug fixes
 
