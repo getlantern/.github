@@ -8,35 +8,49 @@
 # The README files on this repo's profile directory are
 # updated automatically after changes to this file are
 # committed to the "main" branch.
-- 7.9.9:
-  - Localization bug fixes
-  - Updated circumvention protocols and improved proxy selection
-  - Dektop system tray UI/UX updates 
-  - Bug fixes for app crashes
 
-- 7.9.8:
-  - iOS username and password support
-  - Desktop username and password support
+- 8.1.14:
+  - Updated translations
+  - Improvements to circumvention architecture
+
+- 8.1.13:
+  - Fix issues linking device via email on desktop (macOS)
   - Bug fixes
-  - Reduced file size on Android
+  - Performance improvements
 
-- 7.9.7:
-  - Updated circumvention protocols
-  - Spanish language update for Cuban users
-  - Bug fixes for desktop device authorization
-
-- 7.9.6:
-  - Windows, macOS, and Linux UI/UX updates
-  - Updated proxy selection protocols
+- 8.1.12:
+  - Fix issues linking device via email on desktop
   - Bug fixes
 
-- 7.9.5:
-  - Translation and localization updates
-  - Android crashing bug fixes
+# - 7.9.9:
+#   - Localization bug fixes
+#   - Updated circumvention protocols and improved proxy selection
+#   - Dektop system tray UI/UX updates 
+#   - Bug fixes for app crashes
 
-- 7.9.4:
-  - Updated circumvention protocols
-  - Desktop bug fixes
+# - 7.9.8:
+#   - iOS username and password support
+#   - Desktop username and password support
+#   - Bug fixes
+#   - Reduced file size on Android
+
+# - 7.9.7:
+#   - Updated circumvention protocols
+#   - Spanish language update for Cuban users
+#   - Bug fixes for desktop device authorization
+
+# - 7.9.6:
+#   - Windows, macOS, and Linux UI/UX updates
+#   - Updated proxy selection protocols
+#   - Bug fixes
+
+# - 7.9.5:
+#   - Translation and localization updates
+#   - Android crashing bug fixes
+
+# - 7.9.4:
+#   - Updated circumvention protocols
+#   - Desktop bug fixes
   
 # - 7.9.3:
 #   - improvements to notifications
