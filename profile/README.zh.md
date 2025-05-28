@@ -93,14 +93,15 @@
 - 推特 | [اَلْعَرَبِيَّةُ](https://twitter.com/getlantern_UAE) | [беларуская](https://twitter.com/LanternBelarus) | [English](https://twitter.com/getlantern) | [فارسی](https://twitter.com/getlantern_fa) | [française](https://twitter.com/getlantern_gu) | [русский](https://twitter.com/Lantern_Russia) | [українська](https://twitter.com/LanternUA) | [中文](https://twitter.com/getlantern_CN)
 
 ## Release Notes
-### 8.1.14
-- Updated translations
-- Improvements to circumvention architecture
-### 8.1.13
-- Fix issues linking device via email on desktop (macOS)
+### 8.2.6
+- Crashing bug fix for macOS installer
+### 8.2.5
+- Updated circumvention protocols
+- New proxy configurations
+### 8.2.4
+- Updated circumvention protocols
 - Bug fixes
-- Performance improvements
-### 8.1.12
-- Fix issues linking device via email on desktop
-- Bug fixes
+### 8.2.1
+- UI Fixes
+- Updated circumvention protocols
 
