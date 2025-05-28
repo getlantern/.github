@@ -9,18 +9,33 @@
 # updated automatically after changes to this file are
 # committed to the "main" branch.
 
-- 8.1.14:
-  - Updated translations
-  - Improvements to circumvention architecture
-
-- 8.1.13:
-  - Fix issues linking device via email on desktop (macOS)
+- 8.2.6:
+  - Crashing bug fix for macOS installer
+  
+- 8.2.5:
+  - Updated circumvention protocols
+  - New proxy configurations
+  
+- 8.2.4:
+  - Updated circumvention protocols
   - Bug fixes
-  - Performance improvements
+  
+- 8.2.1:
+  - UI Fixes
+  - Updated circumvention protocols
+  
+#- 8.1.14:
+#  - Updated translations
+#  - Improvements to circumvention architecture
 
-- 8.1.12:
-  - Fix issues linking device via email on desktop
-  - Bug fixes
+#- 8.1.13:
+#  - Fix issues linking device via email on desktop (macOS)
+#  - Bug fixes
+#  - Performance improvements
+
+#- 8.1.12:
+#  - Fix issues linking device via email on desktop
+#  - Bug fixes
 
 # - 7.9.9:
 #   - Localization bug fixes
