@@ -21,7 +21,7 @@
     "win10": "Windows 10+",
     "win7": "Windows 7",
     "android6": "Android 6+",
-    "osx": "macOS 10.13+",
+    "osx": "macOS 12+",
     "ios11": "iOS 11+",
     "ubuntu32": "Ubuntu 14.04+ (32-بت)",
     "ubuntu64": "Ubuntu 14.04+ (64-بت)",
