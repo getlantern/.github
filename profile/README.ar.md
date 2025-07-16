@@ -48,13 +48,13 @@
     <tr>
         <th>نظام التشغيل macOS</th>
         <td>
-            <a href="https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.dmg">macOS 10.13&#43;</a> <br>
-            <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer.dmg">macOS 10.13&#43;</a> <br>
-            <a href="https://s3.amazonaws.com/lantern/lantern-installer.dmg">macOS 10.13&#43;</a>
+            <a href="https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.dmg">macOS 12&#43;</a> <br>
+            <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer.dmg">macOS 12&#43;</a> <br>
+            <a href="https://s3.amazonaws.com/lantern/lantern-installer.dmg">macOS 12&#43;</a>
         </td>
         <td></td>
         <td>
-            <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-preview.dmg">macOS 10.13&#43;</a>
+            <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-preview.dmg">macOS 12&#43;</a>
         </td>
     </tr>
     <tr>
