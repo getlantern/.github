@@ -21,7 +21,7 @@
     "win10": "Windows 10+",
     "win7": "Windows 7",
     "android6": "安卓 6+",
-    "osx": "苹果Mac系统 12+",
+    "osx": "苹果Mac系统 10.15+",
     "ios11": "苹果IOS系统 11+",
     "ubuntu32": "Ubuntu 优麒麟 14.04+ (32 位)",
     "ubuntu64": "Ubuntu 优麒麟 14.04+ (64 位)",
