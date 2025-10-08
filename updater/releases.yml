@@ -9,20 +9,51 @@
 # updated automatically after changes to this file are
 # committed to the "main" branch.
 
-- 8.2.6:
-  - Crashing bug fix for macOS installer
-  
-- 8.2.5:
+- 8.3.5:
+  - Front end and UI optimization
+  - Fixed payment issue with Google Play Store
   - Updated circumvention protocols
-  - New proxy configurations
-  
-- 8.2.4:
+
+- 8.3.4:
+  - Updated dialer protocols
+  - Payment page bug fixes
+
+- 8.3.3:
+  - Updated proxy routes
+  - Web traffic optimization 
+
+- 8.3.2:
   - Updated circumvention protocols
-  - Bug fixes
-  
-- 8.2.1:
-  - UI Fixes
+
+- 8.3.1:
   - Updated circumvention protocols
+
+- 8.3.0:
+  - Updated circumvention protocols
+  - Web traffic optimization
+
+#- 8.2.9:
+ # - Crashing bug fixes
+ # - UI Optimizations
+
+#- 8.2.8:
+ # - macOS bug fixes
+ # - Windows bug fixes
+  
+#- 8.2.6:
+  #- Crashing bug fix for macOS installer
+  
+#- 8.2.5:
+  #- Updated circumvention protocols
+ # - New proxy configurations
+  
+#- 8.2.4:
+  #- Updated circumvention protocols
+ # - Bug fixes
+  
+#- 8.2.1:
+  #- UI Fixes
+  #- Updated circumvention protocols
   
 #- 8.1.14:
 #  - Updated translations
