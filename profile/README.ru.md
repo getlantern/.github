@@ -93,15 +93,21 @@
 - Twitter | [English](https://twitter.com/getlantern) | [فارسی](https://twitter.com/getlantern_fa) | [中文](https://twitter.com/getlantern_CN)
 
 ## Release Notes
-### 8.2.6
-- Crashing bug fix for macOS installer
-### 8.2.5
+### 8.3.5
+- Front end and UI optimization
+- Fixed payment issue with Google Play Store
 - Updated circumvention protocols
-- New proxy configurations
-### 8.2.4
+### 8.3.4
+- Updated dialer protocols
+- Payment page bug fixes
+### 8.3.3
+- Updated proxy routes
+- Web traffic optimization
+### 8.3.2
 - Updated circumvention protocols
-- Bug fixes
-### 8.2.1
-- UI Fixes
+### 8.3.1
 - Updated circumvention protocols
+### 8.3.0
+- Updated circumvention protocols
+- Web traffic optimization
 
