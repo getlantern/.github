@@ -93,6 +93,9 @@
 - تويتر | [English](https://twitter.com/getlantern) | [فارسی](https://twitter.com/getlantern_fa) | [中文](https://twitter.com/getlantern_CN)
 
 ## Release Notes
+### 8.3.7 (preview)
+- Fixed an issue preventing some users from sending issue reports from the application
+- Fixed an issue that prevented 25-digit activation codes from being redeemed
 ### 8.3.5
 - Front end and UI optimization
 - Fixed payment issue with Google Play Store
