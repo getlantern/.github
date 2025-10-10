@@ -9,6 +9,10 @@
 # updated automatically after changes to this file are
 # committed to the "main" branch.
 
+- 8.3.7 (preview):
+  - Fixed an issue preventing some users from sending issue reports from the application
+  - Fixed an issue that prevented 25-digit activation codes from being redeemed 
+
 - 8.3.5:
   - Front end and UI optimization
   - Fixed payment issue with Google Play Store
