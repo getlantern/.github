@@ -93,7 +93,7 @@ Censorship circumvention tool available for free download on any operating syste
 - Twitter | [English](https://twitter.com/getlantern) | [فارسی](https://twitter.com/getlantern_fa) | [中文](https://twitter.com/getlantern_CN)
 
 ## Release Notes
-### 8.3.7 (preview)
+### 8.3.7 
 - Fixed an issue preventing some users from sending issue reports from the application
 - Fixed an issue that prevented 25-digit activation codes from being redeemed
 ### 8.3.5
