@@ -103,12 +103,5 @@
  {{- end }}
 
 ## Release Notes
-{{- range $release := $rl }}
-{{- range $version, $notes := $release }}
-### {{ $version }}
-{{- range $note := $notes }}
-- {{ $note }}
-{{- end }}
-{{- end }}
-{{- end }}
 
+- {{ $cm.releases_link }}

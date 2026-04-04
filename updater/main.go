@@ -15,9 +15,8 @@ import (
 )
 
 const (
-	linksFile       = "links.yml"    // social media
-	releaseFile     = "releases.yml" // release notes
-	commonFile      = "common.json"  // endonyms & shared links
+	linksFile       = "links.yml"   // social media
+	commonFile      = "common.json" // endonyms & shared links
 	templateSuffix  = ".tmpl"
 	templateDir     = "templates"
 	translationsDir = "translations"
@@ -30,10 +29,12 @@ var (
 	debug      = false
 )
 
-type site map[string]string         // an entry for each language
-type sites map[string]site          // e.g. links.yml
-type translations map[string]string // e.g. en.json
-type releases []map[string][]string // e.g. releases.yml
+type (
+	site         map[string]string     // an entry for each language
+	sites        map[string]site       // e.g. links.yml
+	translations map[string]string     // e.g. en.json
+	releases     []map[string][]string // e.g. releases.yml
+)
 
 // downloads page
 type page struct {
@@ -123,7 +124,7 @@ func makeMinifiedCopy(filepath string) error {
 	bareName := strings.Replace(filepath, extension, "", -1)
 	minifiedPath := fmt.Sprintf("%s.min%s", bareName, extension)
 
-	err = os.WriteFile(minifiedPath, []byte(minified), 0644)
+	err = os.WriteFile(minifiedPath, []byte(minified), 0o644)
 	if err != nil {
 		return fmt.Errorf("unable to write minified data: %w", err)
 	}
@@ -193,13 +194,8 @@ func loadInfo(translationFile string) (page, error) {
 		fmt.Printf("sites:\n%v\n\n", sites)
 	}
 
-	var releases releases
-	err = readUnmarshalFile(releaseFile, &releases)
 	if err != nil {
 		return page{}, fmt.Errorf("unable to load releases: %w", err)
-	}
-	if debug {
-		fmt.Printf("releases:\n%v\n", releases)
 	}
 
 	// not language specific
@@ -227,7 +223,6 @@ func loadInfo(translationFile string) (page, error) {
 		Sites:        sites,
 		Common:       common,
 		Translations: translations,
-		Releases:     releases,
 	}
 	if debug {
 		fmt.Printf("page: %+v\n", page)
