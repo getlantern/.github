@@ -194,10 +194,6 @@ func loadInfo(translationFile string) (page, error) {
 		fmt.Printf("sites:\n%v\n\n", sites)
 	}
 
-	if err != nil {
-		return page{}, fmt.Errorf("unable to load releases: %w", err)
-	}
-
 	// not language specific
 	var common translations
 	err = readUnmarshalFile(commonPath, &common)
