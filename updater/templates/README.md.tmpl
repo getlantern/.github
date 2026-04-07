@@ -65,21 +65,43 @@
     </tr>
     <tr>
         <th>{{ $tx.ios }}</th>
-        <td></td>
+        <td>
+            <a href="{{ $cm.ios_link_gh }}">{{ $tx.ipa }}</a> <br>
+            <a href="{{ $cm.ios_link_s3 }}">{{ $tx.ipa }}</a>
+        </td>
         <td>
             <a href="{{ $cm.ios_link }}">{{ $tx.ios11 }}</a>
         </td>
-        <td></td>
+        <td>
+            <a href="{{ $cm.ios_link_beta }}">{{ $tx.ipa }}</a>
+        </td>
     </tr>
     <tr>
-        <th>{{ $tx.linux64 }}</th>
+        <th>{{ $tx.linux_amd64 }}</th>
         <td>
-            <a href="{{ $cm.ubuntu64_link_gh }}">{{ $tx.ubuntu64 }}</a> <br>
-            <a href="{{ $cm.ubuntu64_link_s3 }}">{{ $tx.ubuntu64 }}</a>
+            <a href="{{ $cm.deb_amd64_link_gh }}">{{ $tx.deb }}</a> <br>
+            <a href="{{ $cm.deb_amd64_link_s3 }}">{{ $tx.deb }}</a> <br>
+            <a href="{{ $cm.rpm_amd64_link_gh }}">{{ $tx.rpm }}</a> <br>
+            <a href="{{ $cm.rpm_amd64_link_s3 }}">{{ $tx.rpm }}</a>
         </td>
         <td></td>
         <td>
-            <a href="{{ $cm.ubuntu64_link_beta }}">{{ $tx.ubuntu64 }}</a>
+            <a href="{{ $cm.deb_amd64_link_beta }}">{{ $tx.deb }}</a> <br>
+            <a href="{{ $cm.rpm_amd64_link_beta }}">{{ $tx.rpm }}</a>
+        </td>
+    </tr>
+    <tr>
+        <th>{{ $tx.linux_arm64 }}</th>
+        <td>
+            <a href="{{ $cm.deb_arm64_link_gh }}">{{ $tx.deb }}</a> <br>
+            <a href="{{ $cm.deb_arm64_link_s3 }}">{{ $tx.deb }}</a> <br>
+            <a href="{{ $cm.rpm_arm64_link_gh }}">{{ $tx.rpm }}</a> <br>
+            <a href="{{ $cm.rpm_arm64_link_s3 }}">{{ $tx.rpm }}</a>
+        </td>
+        <td></td>
+        <td>
+            <a href="{{ $cm.deb_arm64_link_beta }}">{{ $tx.deb }}</a> <br>
+            <a href="{{ $cm.rpm_arm64_link_beta }}">{{ $tx.rpm }}</a>
         </td>
     </tr>
 </table>
