@@ -23,7 +23,7 @@
         <td>
             <a href="https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.exe">Windows 10&#43;</a> <br> 
             <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer.exe">Windows 10&#43;</a> <br>
-            <a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">Windows 10&#43;</a> <br>
+            <a href="https://s3.amazonaws.com/lantern.io/releases/production/latest/lantern-installer.exe">Windows 10&#43;</a> <br>
             <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-win7.exe">Windows 7</a>    
         </td>
         <td></td>
@@ -35,7 +35,7 @@
         <th>نظام Android</th>
         <td>
             <a href="https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.apk">Android 6&#43;</a> <br>
-            <a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">Android 6&#43;</a> <br>
+            <a href="https://s3.amazonaws.com/lantern.io/releases/production/latest/lantern-installer.apk">Android 6&#43;</a> <br>
             <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer.apk">Android 6&#43;</a>
         </td>
         <td>
@@ -50,7 +50,7 @@
         <td>
             <a href="https://gitlab.com/getlantern/lantern-binaries-mirror/-/raw/master/lantern-installer.dmg">macOS 10.13&#43;</a> <br>
             <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer.dmg">macOS 10.13&#43;</a> <br>
-            <a href="https://s3.amazonaws.com/lantern/lantern-installer.dmg">macOS 10.13&#43;</a>
+            <a href="https://s3.amazonaws.com/lantern.io/releases/production/latest/lantern-installer.dmg">macOS 10.13&#43;</a>
         </td>
         <td></td>
         <td>
@@ -69,7 +69,7 @@
         <th>Linux (64-بت)</th>
         <td>
             <a href="https://github.com/getlantern/lantern-binaries/raw/main/lantern-installer-64-bit.deb">Ubuntu 14.04&#43; (64-بت)</a> <br>
-            <a href="https://s3.amazonaws.com/lantern/lantern-installer-64-bit.deb">Ubuntu 14.04&#43; (64-بت)</a>
+            <a href="https://s3.amazonaws.com/lantern.io/releases/production/latest/lantern-installer.deb">Ubuntu 14.04&#43; (64-بت)</a>
         </td>
         <td></td>
         <td>
@@ -93,24 +93,5 @@
 - تويتر | [English](https://twitter.com/getlantern) | [فارسی](https://twitter.com/getlantern_fa) | [中文](https://twitter.com/getlantern_CN)
 
 ## Release Notes
-### 8.3.7 (preview)
-- Fixed an issue preventing some users from sending issue reports from the application
-- Fixed an issue that prevented 25-digit activation codes from being redeemed
-### 8.3.5
-- Front end and UI optimization
-- Fixed payment issue with Google Play Store
-- Updated circumvention protocols
-### 8.3.4
-- Updated dialer protocols
-- Payment page bug fixes
-### 8.3.3
-- Updated proxy routes
-- Web traffic optimization
-### 8.3.2
-- Updated circumvention protocols
-### 8.3.1
-- Updated circumvention protocols
-### 8.3.0
-- Updated circumvention protocols
-- Web traffic optimization
 
+- https://github.com/getlantern/lantern/releases
