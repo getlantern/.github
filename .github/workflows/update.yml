@@ -45,9 +45,13 @@ jobs:
       - name: Trigger legacy repo to update READMEs to keep in sync
         if: github.ref == 'refs/heads/main'
         run: |
-          export GH_GRANTS_TOKEN=${{ secrets.GH_GRANTS_TOKEN }}
-          curl -H "Accept: application/vnd.github.everest-preview+json" \
-          -H "Authorization: token $GH_GRANTS_TOKEN" \
-          --request POST --data '{"event_type": "TRIGGER_UPDATE"}' \
-          https://api.github.com/repos/getlantern/lantern/dispatches
+          http_code=$(curl -s -o /dev/null -w '%{http_code}' \
+            -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Authorization: token ${{ secrets.GH_GRANTS_TOKEN }}" \
+            --request POST --data '{"event_type": "TRIGGER_UPDATE"}' \
+            https://api.github.com/repos/getlantern/lantern/dispatches)
+          if ! [ "$http_code" -ge 200 ] || ! [ "$http_code" -lt 300 ]; then
+            echo "::error::Dispatch failed with HTTP $http_code"
+            exit 1
+          fi
   
