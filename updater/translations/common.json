@@ -21,6 +21,7 @@
     "android_link_gh": "https://github.com/getlantern/lantern/releases/latest/download/lantern-installer.apk",
     "android_link_s3": "https://s3.amazonaws.com/lantern.io/releases/production/latest/lantern-installer.apk",
     "android_link_beta": "https://s3.amazonaws.com/lantern.io/releases/beta/latest/lantern-installer-beta.apk",
+    "android_link_beta_armv7": "https://s3.amazonaws.com/lantern.io/releases/beta/latest/lantern-installer-beta-armv7.apk",
     "android_link_play": "https://play.google.com/store/apps/details?id=org.getlantern.lantern",
     "osx_link_gh": "https://github.com/getlantern/lantern/releases/latest/download/lantern-installer.dmg",
     "osx_link_s3": "https://s3.amazonaws.com/lantern.io/releases/production/latest/lantern-installer.dmg",
